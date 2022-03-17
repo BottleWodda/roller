@@ -1,0 +1,10 @@
+#roll4, #roll6, #roll8, #roll10, #roll12, #roll20 {
+    font-size: x-large;
+    margin-left: 50px;
+}
+
+#button {
+    padding: 20px;
+    background-color: burlywood;
+    color: rgb(255, 255, 255);
+}
